@@ -1,3 +1,7 @@
 text2
 main commit2
+<<<<<<< HEAD
 main conflict2
+=======
+conflict-1 commit2
+>>>>>>> conflict-1
